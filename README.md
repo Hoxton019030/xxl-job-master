@@ -1,3 +1,6 @@
+# 訪問的網址
+
+http://localhost:8080/xxl-job-admin/
 
 # xxljob源码分析
 
